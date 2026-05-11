@@ -55,6 +55,7 @@ Built with Python for learning, experimentation, and practical security workflow
 
 # Project Structure
 
+```text
 python-security-tools/
 ├── tools/
 │   ├── port_scanner.py
@@ -71,6 +72,7 @@ python-security-tools/
 ├── requirements.txt
 ├── README.md
 └── LICENSE
+```
 
 # Installation
 
