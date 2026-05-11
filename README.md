@@ -55,5 +55,22 @@ WHOIS Lookup & DNS Lookup Tool
 
 # Project Structure
 
-text python-security-tools/ │ ├── tools/ │   ├── port_scanner.py │   ├── ip_lookup.py │   ├── whois_lookup.py │   ├── dns_lookup.py │   └── hash_checker.py │ ├── screenshots/ │   ├── hash-checker-tool.png │   ├── port-scanner-and-ip-lookup.png │   └── whois-lookup-tool-and-dns-lookup-tool.png │ ├── requirements.txt ├── README.md └── LICENSE 
+python-security-tools/
+│
+├── tools/
+│   ├── port_scanner.py
+│   ├── ip_lookup.py
+│   ├── whois_lookup.py
+│   ├── dns_lookup.py
+│   └── hash_checker.py
+│
+├── screenshots/
+│   ├── hash-checker-tool.png
+│   ├── port-scanner-and-ip-lookup.png
+│   └── whois-lookup-tool-and-dns-lookup-tool.png
+│
+├── requirements.txt
+├── README.md
+└── LICENSE
+
 
