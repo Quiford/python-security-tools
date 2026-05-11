@@ -74,58 +74,57 @@ python-security-tools/
 └── LICENSE
 
 
- 
-⸻
+
  
 # Installation
 1. Clone the Repository
 git clone https://github.com/Quiford/python-security-tools.git
 cd python-security-tools
  
-⸻
+
  
 2. Install Dependencies
 pip install -r requirements.txt
 or
 py -m pip install -r requirements.txt
  
-⸻
+
  
 # Usage
 All tools are CLI-based and can be run directly from the terminal.
  
-⸻
+
  
 # Port Scanner
 python tools/port_scanner.py
  
 ⸻
  
-IP Lookup
+## IP Lookup
 python tools/ip_lookup.py
  
-⸻
+
  
-WHOIS Lookup
+## WHOIS Lookup
 python tools/whois_lookup.py
  
-⸻
+
  
-DNS Lookup
+## DNS Lookup
 python tools/dns_lookup.py
  
-⸻
+
  
-Hash Checker
+## Hash Checker
 python tools/hash_checker.py
  
-⸻
+
  
 # Requirements
 * Python 3.8+
 * See requirements.txt for required dependencies
  
-⸻
+
  
 # Roadmap
 Planned additions:
@@ -137,7 +136,7 @@ Planned additions:
 * Async networking support
 * Expanded automation workflows
  
-⸻
+
  
 # Learning Goals
 This repository was created to practice and demonstrate:
@@ -149,19 +148,18 @@ This repository was created to practice and demonstrate:
 * CLI application development
 * Project organization and documentation
  
-⸻
+
  
 # Disclaimer
 These tools are intended for educational purposes and authorized security testing only.
 Always obtain proper permission before scanning or analyzing networks and systems you do not own.
  
-⸻
+
  
 # License
 This project is licensed under the MIT License.
 See LICENSE for details.
  
-⸻
  
 # Author
 Afolabi Yusuf Oladipupo
